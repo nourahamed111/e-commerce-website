@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(238, 229, 212);
+
+
+}
+.center{
+text-align: center;
+}
+
+ .product{
+    display: inline-block;
+    margin: 30px;
+    padding: 25px;
+ }
+ img{
+    width: 550px;
+    height: 550px;
+ }
+ h1{
+    
+   display: block; 
+ }
+
+ ol{
+ display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 40px;
+}
+p{
+    font-style: italic;
+    text-decoration: underline;
+}
+h2{
+    text-decoration: line-through;
+}
+h1{
+    color: rgb(100, 177, 151);
+    background-color: rgb(240, 234, 227);
+}

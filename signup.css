@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(238, 229, 212);
+    background-image: url("./img/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;    
+    background-attachment: fixed;
+    text-align: center;
+}
+
+table {
+    border: 2px solid ;
+    border-radius: 4px;
+    background-color: seashell;
+    padding:auto;
+    margin-top: 150px;
+    margin-left: 400px;
+    width: 50%;
+    height: 500px;
+    box-shadow: 1px 1px 1px 1px; 
+    
+ }
+ th, td {
+    border: 1px solid;
+    
+  }
+
+ 
+  button:hover {
+    background-color: rgb(120, 192, 166);
+    transition: 0.7s;
+  }
+
